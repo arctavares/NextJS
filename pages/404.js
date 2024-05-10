@@ -1,4 +1,4 @@
-import CustomLink from '../components/Link';
+import CustomLink from '../src/components/Link';
 
 export default function Page404() {
     return (
